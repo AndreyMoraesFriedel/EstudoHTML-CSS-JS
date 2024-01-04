@@ -14,7 +14,7 @@ aprofundar meus conhecimentos
 
 ### Para mais informações:
 
-![assinatura-andreymoraesfriedel](https://github.com/AndreyMoraesFriedel/RoboLojasFabricia/assets/134893056/8dfedd60-bbf3-4179-bb70-acad312300f9)
+![assinatura-andreymoraesfriedel](https://github.com/AndreyMoraesFriedel/CursosHTML-CSS-JS/assets/134893056/2fc3ec5d-484b-4034-b20c-b9efa5c0d791)
 
 ### **Links** :link:
 * Meu perfil no [GitHub](https://github.com/AndreyMoraesFriedel) :octocat:
