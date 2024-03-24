@@ -1,0 +1,28 @@
+body{
+    background: rgb(76, 76, 241);
+    font: normal 15pt Arial; /*Fonte*/
+}
+
+header{
+    color: white;     /*Cor do Texto*/
+    text-align: center; /*Centralizar Texto*/
+}
+
+section{
+    background: white; /*Cor do Fundo*/
+    border-radius: 10px; /*Tamanho da Borda*/
+    padding: 15px;       /*Dar Espaçamento*/
+    width: 500px;        /*Largura*/
+    margin: auto;        /*Centralizar*/
+    box-shadow: 5px /*Deslocamento Lateral*/ 5px /*Deslocamento Vertical*/ 10px /*Espalhamento*/ rgba(0, 0, 0, 0.329);
+}
+
+select#listaDeValores{
+    width: 150px;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;   /*Estilo da Fonte*/
+}
